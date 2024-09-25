@@ -1,3 +1,4 @@
+// Lucas Rodriguez España
 package com.example.resistencias
 
 import android.os.Bundle
